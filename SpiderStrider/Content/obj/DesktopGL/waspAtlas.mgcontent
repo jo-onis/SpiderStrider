@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/jonat/Documents/Visual Studio 2017/Projects/SpiderStrider/SpiderStrider/Content/waspAtlas.xml</SourceFile>
+  <SourceTime>2018-03-24T13:09:51.3127979+01:00</SourceTime>
+  <DestFile>C:/Users/jonat/Documents/Visual Studio 2017/Projects/SpiderStrider/SpiderStrider/Content/bin/DesktopGL/waspAtlas.xnb</DestFile>
+  <DestTime>2018-03-24T23:04:01.0437248+01:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>TextureAtlasProcessor</Processor>
+  <ProcessorTime>2018-03-18T12:19:40.4200917+01:00</ProcessorTime>
+  <Parameters>
+    <Key>compressTexture</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>animationFPS</Key>
+    <Value>10</Value>
+  </Parameters>
+  <Parameters>
+    <Key>flattenPaths</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Dependencies>
+    <string>wasp/flap/wasp_flap_1.png</string>
+    <string>wasp/flap/wasp_flap_2.png</string>
+  </Dependencies>
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/jonat/Documents/Visual Studio 2017/Projects/SpiderStrider/SpiderStrider/Content/webAtlas.xml</SourceFile>
+  <SourceTime>2018-03-18T18:48:59.0152008+01:00</SourceTime>
+  <DestFile>C:/Users/jonat/Documents/Visual Studio 2017/Projects/SpiderStrider/SpiderStrider/Content/bin/DesktopGL/webAtlas.xnb</DestFile>
+  <DestTime>2018-03-24T23:03:57.6196243+01:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>TextureAtlasProcessor</Processor>
+  <ProcessorTime>2018-03-18T12:19:40.4200917+01:00</ProcessorTime>
+  <Parameters>
+    <Key>compressTexture</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>animationFPS</Key>
+    <Value>8</Value>
+  </Parameters>
+  <Parameters>
+    <Key>flattenPaths</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Dependencies>
+    <string>web/shake/web_shake_1.png</string>
+    <string>web/shake/web_shake_2.png</string>
+  </Dependencies>
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
